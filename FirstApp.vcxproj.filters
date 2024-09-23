@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\HomeWork20">
+      <UniqueIdentifier>{e8adc5f0-29c4-46f4-873f-838246b0ab50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HomeWork26">
+      <UniqueIdentifier>{1e110892-16f3-4b1f-b632-2034c4d3c603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HomeWork42">
+      <UniqueIdentifier>{f50c80ed-15b0-4623-be21-b13bd62bdd0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HomeWork45">
+      <UniqueIdentifier>{d54902be-bec6-4e0e-bcb0-80edfc5ee913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HomeWork43">
+      <UniqueIdentifier>{744050e1-db4f-4146-b21f-120d9d725f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HomeWork47">
+      <UniqueIdentifier>{2ae23af5-6f39-460e-81c4-5038f681dbb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HomeWork49">
+      <UniqueIdentifier>{f881afc3-fc5a-4cfe-a7b4-d365c6256dc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HomeWork50">
+      <UniqueIdentifier>{0cf8b2e6-f8ab-417e-b419-40745313df6c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FirstApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Variables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="#7.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#9.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#10.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#14.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#15.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#17.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#19.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#20.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#21.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#22.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#31.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#35.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#39.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#40.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#42.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#43.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#47.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="#49.cpp">
+      <Filter>Source Files\HomeWork20</Filter>
+    </ClCompile>
+    <ClCompile Include="21-22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="26.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="##16.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##19.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##20.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##21.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##22.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##31.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##42.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##18.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##23.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##32.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="##43.cpp">
+      <Filter>Source Files\HomeWork26</Filter>
+    </ClCompile>
+    <ClCompile Include="27.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="28.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="30.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="33.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="34.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="36.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="38.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="39.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="40.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="###4.cpp">
+      <Filter>Source Files\HomeWork42</Filter>
+    </ClCompile>
+    <ClCompile Include="###8.cpp">
+      <Filter>Source Files\HomeWork42</Filter>
+    </ClCompile>
+    <ClCompile Include="###11.cpp">
+      <Filter>Source Files\HomeWork42</Filter>
+    </ClCompile>
+    <ClCompile Include="###24.cpp">
+      <Filter>Source Files\HomeWork42</Filter>
+    </ClCompile>
+    <ClCompile Include="###49.cpp">
+      <Filter>Source Files\HomeWork42</Filter>
+    </ClCompile>
+    <ClCompile Include="####33.cpp">
+      <Filter>Source Files\HomeWork43</Filter>
+    </ClCompile>
+    <ClCompile Include="####34.cpp">
+      <Filter>Source Files\HomeWork43</Filter>
+    </ClCompile>
+    <ClCompile Include="####36.cpp">
+      <Filter>Source Files\HomeWork43</Filter>
+    </ClCompile>
+    <ClCompile Include="####44.cpp">
+      <Filter>Source Files\HomeWork43</Filter>
+    </ClCompile>
+    <ClCompile Include="####45.cpp">
+      <Filter>Source Files\HomeWork43</Filter>
+    </ClCompile>
+    <ClCompile Include="#####36.cpp">
+      <Filter>Source Files\HomeWork45</Filter>
+    </ClCompile>
+    <ClCompile Include="#####44.cpp">
+      <Filter>Source Files\HomeWork45</Filter>
+    </ClCompile>
+    <ClCompile Include="#####45.cpp">
+      <Filter>Source Files\HomeWork45</Filter>
+    </ClCompile>
+    <ClCompile Include="######26.cpp">
+      <Filter>Source Files\HomeWork47</Filter>
+    </ClCompile>
+    <ClCompile Include="######27.cpp">
+      <Filter>Source Files\HomeWork47</Filter>
+    </ClCompile>
+    <ClCompile Include="######28.cpp">
+      <Filter>Source Files\HomeWork47</Filter>
+    </ClCompile>
+    <ClCompile Include="######29.cpp">
+      <Filter>Source Files\HomeWork47</Filter>
+    </ClCompile>
+    <ClCompile Include="######30.cpp">
+      <Filter>Source Files\HomeWork47</Filter>
+    </ClCompile>
+    <ClCompile Include="######32.cpp">
+      <Filter>Source Files\HomeWork47</Filter>
+    </ClCompile>
+    <ClCompile Include="######46.cpp">
+      <Filter>Source Files\HomeWork47</Filter>
+    </ClCompile>
+    <ClCompile Include="48.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>Source Files\HomeWork49</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>Source Files\HomeWork49</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>Source Files\HomeWork49</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>Source Files\HomeWork49</Filter>
+    </ClCompile>
+    <ClCompile Include="5.cpp">
+      <Filter>Source Files\HomeWork49</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
+      <Filter>Source Files\HomeWork49</Filter>
+    </ClCompile>
+    <ClCompile Include="#######26.cpp">
+      <Filter>Source Files\HomeWork50</Filter>
+    </ClCompile>
+    <ClCompile Include="#######27.cpp">
+      <Filter>Source Files\HomeWork50</Filter>
+    </ClCompile>
+    <ClCompile Include="#######28.cpp">
+      <Filter>Source Files\HomeWork50</Filter>
+    </ClCompile>
+    <ClCompile Include="#######29.cpp">
+      <Filter>Source Files\HomeWork50</Filter>
+    </ClCompile>
+    <ClCompile Include="#######30.cpp">
+      <Filter>Source Files\HomeWork50</Filter>
+    </ClCompile>
+    <ClCompile Include="#######32.cpp">
+      <Filter>Source Files\HomeWork50</Filter>
+    </ClCompile>
+    <ClCompile Include="#######46.cpp">
+      <Filter>Source Files\HomeWork50</Filter>
+    </ClCompile>
+    <ClCompile Include="52.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="53.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
